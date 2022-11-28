@@ -31,3 +31,4 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 dscd.akamai.net
 0.0.0.0 dscf.akamaiedge.net
+0.0.0.0 cdn.prod.www.spiegel.de
